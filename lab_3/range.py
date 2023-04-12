@@ -10,6 +10,7 @@ def is_positive_int(n):
 
 def range_app():
     n_str = input('Please define size of range: ')
+
     try:
         n = int(n_str)
 
