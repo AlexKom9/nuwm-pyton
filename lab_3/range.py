@@ -1,6 +1,5 @@
 import random
 
-
 def is_positive_int(n):
     if isinstance(n, int) and n > 0:
         return True
